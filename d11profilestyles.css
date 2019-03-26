@@ -1,0 +1,192 @@
+body {
+    background-color: white;
+}
+
+.container {
+    width: 70%;
+    /*border: 1px solid #ce0c0c;*/
+    margin-top: 1%;
+    background: #f1f5f6;
+}
+
+.wholenavbar {
+    width: 103.1%;
+    background: white;
+    margin-left: -15px;
+    
+}
+
+.navheader {
+    margin-left: 1.5%;
+}
+
+.navbar-nav > li > a {
+    color: black;
+}
+
+.hr1 {
+    margin-top: -20px;
+    margin-bottom: 75px;
+    border: 0;
+    border-top: 1px solid black;
+    width: 103%;
+    margin-left: -16px;
+}
+
+.divno2 {
+    margin-top: -6%;
+}
+
+.divhead3 {
+    margin-left: -1%;
+    background: white;
+    width: 102%;
+    padding-left: 4%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.warrenimg1 {
+    width: 88%;
+    height: 125px;
+}
+
+.wholeprofile {
+    margin-top: -2%;
+    margin-left: -2%;
+}
+
+.profilename {
+    font-size: 22px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.contactbtn, .resumebtn {
+    width: 33%;
+}
+
+.resumebtn {
+    margin-left: 2%;
+}
+
+.profiledetails {
+    margin-left: 3%;
+}
+
+.vline {
+    border-left: 1px solid;
+    height: 118px;
+    position: absolute;
+    margin-left: 32%;
+}
+
+.hr2 {
+    /*margin-top: -19px;*/
+    /*margin-bottom: 75px;*/
+    /*border: 0;*/
+    border-top: 1px solid black;
+    width: 102%;
+    margin-left: -10px;
+}
+
+.profilemenu,
+.profilemenu1 {
+    margin-bottom: -20px;
+    color: #1f9fe9;
+    font-size: 16px;
+    background: none;
+    /* color: black; font-size: 16px; background: none;*/
+}
+
+.profilemenu:hover,
+.profilemenu1:hover {
+    color: #1f9fe9;
+    font-size: 20px;
+    background: none;
+}
+
+.aboutprofile1 {
+    background: white;
+    margin-left: 1%;
+    width: 20%;
+    padding-top: 0%;
+    padding-bottom: 3%;
+}
+
+.aboutprofile2 {
+    background: white;
+    width: 50%;
+    text-align: justify;
+    margin-left: 2%;
+}
+
+.aboutprofile3 {
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 2%;
+    background: white;
+    padding: 2%;
+    width: 175%;
+}
+
+.profilebtn3 {
+    background: dodgerblue;
+    width: 55%;
+    border: none;
+}
+
+.profilebtn3:hover {
+    background: dodgerblue;
+}
+
+.trackicon {
+    color: dodgerblue;
+    font-size: 85px;
+}
+
+.skillbtn {
+    border-radius: 11%;
+    width: 13%;
+    margin-bottom: 3%;
+    border: 1px solid dodgerblue;
+}
+
+.skillbtn:hover {
+    background: none;
+    border: 1px solid dodgerblue;
+}
+
+.breaks {
+    background: #f1f5f6;
+    width: 106%;
+    margin-left: -3%;
+}
+
+.similarprofile {
+    margin-left: 47%;
+    width: 162%;
+    position: absolute;
+    margin-top: 9%;
+}
+
+.similarprof1 {
+    margin-top: 8%;
+    margin-bottom: 68%;
+}
+
+.similarprof{
+    margin-top: -10%;
+    margin-left: 7%;
+}
+
+.pagination {
+    margin-left: 35%;
+}
+
+.footer {
+    padding-left: 1%;
+    background: #0c6c91;
+    width: 103%;
+    margin-left: -1.5%;
+    height: 35vh;
+}
